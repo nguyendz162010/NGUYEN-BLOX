@@ -1,4 +1,4 @@
-shared.LoaderTitle = "Đăng Ký Kênh Văn Thành IOS";
+shared.LoaderTitle = "roblox: nguyenbloxsevet1";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -90,7 +90,7 @@ local v6 = CreateObject("Frame", {
 });
 v4(12, v6);
 local v7 = CreateObject("ImageLabel", {
-    Name = "Nguyenblox",
+    Name = "119521554851029",
     Parent = v6,
     BackgroundTransparency = 1,
     Image = "rbxassetid://119521554851029",
@@ -310,7 +310,7 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/obfalchx/testfluent/refs/heads/main/FluentTrau"))();
 local v15 = v14:CreateWindow({
-    Title = "Văn Thành IOS",
+    Title = "Nguyen blox",
     SubTitle = "",
     TabWidth = 160,
     Theme = "Light",
@@ -9324,7 +9324,7 @@ spawn(function()
     end
 end);
 v14:Notify({
-    Title = "Văn Thành IOS",
+    Title = "Nguyen blox",
     Content = "Tải Xong",
     Duration = 10
 });
